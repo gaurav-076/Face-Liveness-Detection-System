@@ -5,3 +5,11 @@ Face liveness detection systems play a vital role in ensuring the security and i
 
 For running the code,
 
+Firstly, run the Liveness_Model_MobileNetV2 at 100 epochs.
+
+or,
+
+Directly run MTCNN_liveness_detector for livness detection using trained weights upload.
+
+
+
