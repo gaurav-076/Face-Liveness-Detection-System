@@ -9,7 +9,7 @@ Firstly, run the Liveness_Model_MobileNetV2 at 100 epochs.
 
 or,
 
-Directly run MTCNN_liveness_detector for livness detection using trained weights upload.
+Directly run MTCNN_liveness_detector for liveness detection using trained model weights upload.
 
 
 
